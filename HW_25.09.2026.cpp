@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-
+    srand(time(0));
     SetConsoleCP(65001);
     SetConsoleOutputCP(65001);
 
